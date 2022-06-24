@@ -1,0 +1,69 @@
+#body {
+background-color: rgb(184, 11, 97);
+
+}
+
+#form{
+   width: 450px;
+   height: 500px;
+   border:5px ,black;
+   background-color: hotpink;
+   margin-left: 400px;
+   margin-top: 20px;
+   padding-left: 50px;
+   padding-top: 20px;
+   border-radius: 20px;
+   font-style: oblique;
+}
+#firstName{
+     width: 390px;
+     height: 30px;
+     padding-left: 10px;
+     margin-right: 20px;
+}
+#LastName{
+    width: 390px;
+    height: 30px;
+    padding-left: 10px;
+  
+}
+#email{
+    width: 390px;
+    height: 30px;
+    padding-left: 10px;
+  
+}
+#password{
+    width: 390px;
+    height: 30px;
+    padding-left: 10px;
+  
+}
+.button{
+     width: 200px;
+     height: 50px;
+     padding-left: 10px;
+     background-color: rgb(238, 92, 189);
+     font-size: 20px;
+     border-radius: 10px;
+     margin-top: 20px;
+     font-style: oblique;
+}
+#link {
+    margin-top: 20px;
+}  
+/* #last {
+    margin-left: 500px;
+    font-size: 20px;
+    color: white;
+}   */
+
+
+
+
+
+
+
+
+
+
